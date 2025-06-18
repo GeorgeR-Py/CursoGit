@@ -7,7 +7,7 @@ body {
 
     header {
       background-color: #00796b;
-      color: white;
+      color: yellow;
       padding: 20px;
       text-align: center;
     }
@@ -41,7 +41,7 @@ body {
 
     footer {
       background-color: #004d40;
-      color: white;
+      color: blue;
       text-align: center;
       padding: 15px;
       position: relative;
